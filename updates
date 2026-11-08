@@ -63,7 +63,7 @@
     }
     @media (prefers-reduced-motion: reduce) {
       .hero-video { display: none; }
-      .hero { background: #1f2937 url("assets/easy-connect-nyc-poster.jpg") center / cover no-repeat; }
+      .hero { background: #1f2937 url("assets/nyc-building-poster.jpg") center / cover no-repeat; }
     }
     .hero h1 {
       font-size: 2.5rem;
@@ -111,8 +111,8 @@
   </header>
 
   <section class="hero" id="home">
-    <video class="hero-video" autoplay muted loop playsinline preload="auto" poster="assets/easy-connect-nyc-poster.jpg" aria-hidden="true">
-      <source src="assets/easy-connect-nyc.mp4" type="video/mp4">
+    <video class="hero-video" autoplay muted loop playsinline preload="auto" poster="assets/nyc-building-poster.jpg" aria-hidden="true">
+      <source src="assets/nyc-building.mp4" type="video/mp4">
     </video>
     <h1 data-en="Clear Paths. Smart Connections." data-es="Caminos Claros. Conexiones Inteligentes.">Clear Paths. Smart Connections.</h1>
     <p data-en="Data-driven GTM strategies and insights to grow your business." data-es="Estrategias GTM basadas en datos para hacer crecer tu negocio.">Data-driven GTM strategies and insights to grow your business.</p>
